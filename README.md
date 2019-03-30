@@ -1,0 +1,2 @@
+# emacs
+Minimal emacs config
